@@ -1,0 +1,6 @@
+numpy
+nibabel
+nilearn
+torch
+torchaudio
+librosa
